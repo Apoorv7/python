@@ -1,0 +1,57 @@
+Day 3
+=================
+-String Functions 
+-File Handling 
+
+String Functions 
+=======================
+There are following inbuilt functions/Mehtods:
+
+upper()		: convert to upper case
+lower()		: convert to lower case 
+title()		: convert to proper case 
+		this is = This Is 
+strip()		: remove leading/extra space
+replace()	: find and replace
+len()		: return count of chars
+list()		: convert to list char by char
+split()		: break string by given sperator
+slicer 		: read string/char by given index 
+etc.
+
+
+File Handling  : read and write operation with files (.txt,.dat)
+====================
+open(path,mode of file) 	: is inbuilt function
+	path: c://abcd/a.txt
+	mode of file:
+		r - read
+		w - write
+		a - append
+		w+ - read and write
+		a+ - read and append
+
+	
+read() 	: read all contents from file
+readline() : read first line / line by line 
+readlines()	: reas all lines/content from file and convert to list/array
+write() 	: write content/string/data to file 
+close()		: save and close the instance of file
+
+	
+##
+q. wap to get count of gender(male, and female) from file
+q. wap to show gender wise salary 
+	male - 2 - 344344
+	female - 3 - 666
+q. wap to beak/distribute one file by country name
+	india.txt
+	uk.txt
+		
+id,name,gender,salary,country
+1,raman,male,4444,india
+2,monika,female,422,uk
+
+
+
+

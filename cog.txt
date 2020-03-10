@@ -1,0 +1,6 @@
+id,name,gender,salary,country
+1,raman,male,4444,india
+2,monica,female,3333,uk
+3,dhwan,male,1222,india
+4,farhan,male,5555,uk
+5,dande,female,6666,uk

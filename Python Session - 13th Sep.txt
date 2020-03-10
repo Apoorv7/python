@@ -1,0 +1,70 @@
+Day 7
+===================
+-> Update
+-> Class - with loop 
+-> System Date
+	
+	import time
+	time.localtime()
+	
+
+TOpics
+===================
+OOPS
+---------
+-class	: is wrapper of data member and function
+-object	: is an instance of class
+
+-encapsulation  : is wrapping of data memeber and function in one unit i.e encapsulation
+		: this is default concept
+		: every class is by default encapsulated 
+			  
+-abstraction  : expose the essential features of class/method and hide the implementation i.e. abstracton 
+		:example
+				print()
+
+
+-constructor	: is function which invoke/call/execute automatically when object will create	
+		: def __init__() : is system defined/reserved function which is constructor
+
+		-> constructor cannot be invoke/call explicitly 
+		-> constructor cannot have return type 
+
+-deconstructor :is function which invoke/call/execute automatically when object will be deleted 
+		: def __del__() : is system defined/rserved function 
+		-> deconstructor cannot be invoke/call explicitly 
+		-> deconstructor cannot have return type 
+
+
+		
+-inheritence  : to extend one class features/functions to another class
+		 (parent - child relationship)
+	      : There are following types of inheritnece:
+		i. single level
+			A -> B
+		ii. multi level 
+			A -> B -> C ... 
+		iii. tree/hirarchical 
+			A ->B , C, D -> M,N
+		iv. hybrid
+				A ->B -> C
+				M-> N,C 
+
+		v.  multiple  
+			A,B,C -> D			
+
+
+-overriding
+**python doesn't support overloading
+		add(a,b):
+		add(a,b,c)	:
+		
+		
+
+
+
+
+
+
+
+
